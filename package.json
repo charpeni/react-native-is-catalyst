@@ -1,8 +1,7 @@
 {
   "name": "react-native-is-catalyst",
-  "title": "React Native Is Catalyst",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "Tells if the react native app is running on Catalyst",
   "main": "index.js",
   "files": [
     "README.md",
